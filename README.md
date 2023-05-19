@@ -8,4 +8,3 @@
 Для выполнения бизнес-задачи исследовано 3 модели машинного обучения : LogisticRegression; DecisionTreeClassifier; 
 RandomForestClassifier. Наиболее эффективно проявил себя Случайный лес с F1 > 0.6 и AUC-ROC - 0.86.
 
-Источник данных: https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling
